@@ -106,6 +106,11 @@ graph LR
 <br>
 <i>Рис 2. Stress-test на галлюцинации: система отказывается генерировать ответ при отсутствии фактов в векторной базе, отвечая "Информации нет".</i>
 </p>
+<p align="center">
+<img src="https://github.com/deniskosminai/enterprise-rag-152fz/blob/main/img/Screenshot_190.jpg" width="80%" alt="Hallucination Test">
+<br>
+<i>Рис 3. Изоляция контекста через жесткие фильтры метаданных (Metadata Filtering).</i>
+</p>
 
 ##  🤝 Как мы можем сотрудничать?
 
