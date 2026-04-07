@@ -97,12 +97,12 @@ graph LR
 
 ##  📸 7. Доказательства работы (Proof of Work)
 <p align="center">
-<img src="ВСТАВИТЬ_ССЫЛКУ_НА_СКРИН_RAGAS" width="80%" alt="RAGAS Metrics">
+<img src="https://github.com/deniskosminai/enterprise-rag-152fz/blob/main/img/Screenshot_1.jpg" width="80%" alt="RAGAS Metrics">
 <br>
 <i>Рис 1. Автоматизированная оценка качества RAG-системы (фреймворк RAGAS). Подтвержденный уровень достоверности фактов (Faithfulness) — 80%+.</i>
 </p>
 <p align="center">
-<img src="ВСТАВИТЬ_ССЫЛКУ_НА_СКРИН_ГАЛЛЮЦИНАЦИИ" width="80%" alt="Hallucination Test">
+<img src="https://github.com/deniskosminai/enterprise-rag-152fz/blob/main/img/Screenshot_10.jpg" width="80%" alt="Hallucination Test">
 <br>
 <i>Рис 2. Stress-test на галлюцинации: система отказывается генерировать ответ при отсутствии фактов в векторной базе, отвечая "Информации нет".</i>
 </p>
