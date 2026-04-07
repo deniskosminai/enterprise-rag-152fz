@@ -1,16 +1,10 @@
 # enterprise-rag-152fz
 
-!https://github.com/deniskosminai/enterprise-rag-152fz/blob/main/img/ENTERPRISE%20RAG%20152-FZ.png (ВСТАВИТЬ_ССЫЛКУ_НА_ОБЛОЖКУ_1)
+<<p align="center">
+<img src="https://github.com/deniskosminai/enterprise-rag-152fz/blob/main/img/Screenshot_1.jpg" width="100%" alt="RAGAS Metrics"> 
 
-# Корпоративная RAG-система: On-Premise развертывание (152-ФЗ)
+## 1. О проекте
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=flat&logo=chroma&logoColor=white)
-![Gemma 3](https://img.shields.io/badge/Gemma_3_27B-4285F4?style=flat)
-![152-FZ](https://img.shields.io/badge/152--ФЗ-Compliant-success)
-![ROI](https://img.shields.io/badge/Faithfulness-80%25+-blue)
-
-# 📌 1. О проекте
 **Какую проблему решаем?**  
 Сотрудники крупных компаний тратят часы на поиск нужной информации в сотнях внутренних регламентов (PDF/Docx). Использовать публичный ChatGPT нельзя из-за риска утечки коммерческой тайны (нарушение 152-ФЗ) и критического риска того, что нейросеть «выдумает» несуществующее правило.
 
