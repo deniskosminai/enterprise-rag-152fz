@@ -1,7 +1,7 @@
 # enterprise-rag-152fz
 
-<<p align="center">
-<img src="https://github.com/deniskosminai/enterprise-rag-152fz/blob/main/img/Screenshot_1.jpg" width="100%" alt="RAGAS Metrics"> 
+<p align="center">
+<img src="https://github.com/deniskosminai/enterprise-rag-152fz/blob/main/img/ENTERPRISE%20RAG%20152-FZ.png" width="100%" alt="RAGAS Metrics"> 
 
 ## 1. О проекте
 
