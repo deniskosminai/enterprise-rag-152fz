@@ -1,5 +1,5 @@
 # enterprise-rag-152fz
-![Enterprise RAG Cover](ВСТАВИТЬ_ССЫЛКУ_НА_ОБЛОЖКУ_1)
+![https://github.com/deniskosminai/enterprise-rag-152fz/blob/main/img/ENTERPRISE%20RAG%20152-FZ.png](ВСТАВИТЬ_ССЫЛКУ_НА_ОБЛОЖКУ_1)
 
 # Корпоративная RAG-система: On-Premise развертывание (152-ФЗ)
 
